@@ -1,7 +1,10 @@
-Hangman Game
+**Hangman Game**
+
 Overview
 This is a simple command-line Hangman game implemented in Python. 
 The game randomly selects a word from a predefined list, and the player has to guess the word by suggesting letters or the entire word within a limited number of tries.
+![image](https://github.com/Gwala-1413/hangman-game/assets/115860146/77a93493-f226-41e4-9de1-1e9e5b11ab52)
+                                                                                                ![image](https://github.com/Gwala-1413/hangman-game/assets/115860146/a5c3f119-434b-4f72-9a25-0001e86aebcb)
 
 Features
 Random word selection from a predefined word list.
